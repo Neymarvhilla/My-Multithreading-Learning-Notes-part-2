@@ -1,0 +1,3 @@
+/Users/nesoaniagboso/CLionProjects/lock_gaurd/cmake-build-debug/CMakeFiles/lock_gaurd.dir
+/Users/nesoaniagboso/CLionProjects/lock_gaurd/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nesoaniagboso/CLionProjects/lock_gaurd/cmake-build-debug/CMakeFiles/rebuild_cache.dir
